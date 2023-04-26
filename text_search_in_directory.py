@@ -23,5 +23,5 @@ for fname in os.listdir(directory):
 endTime = time.time()
 TotalTime = endTime - starTime
 print("Times Found: " + str(cont))
-print("Elapsed execution time:: " + str(TotalTime))
+print("Elapsed execution time: " + str(TotalTime))
 
