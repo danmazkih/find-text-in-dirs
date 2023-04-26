@@ -2,7 +2,7 @@ import os
 import time
 
 
-directory= r"C:\Users\BECING3_22\Desktop\logs"
+directory= r""
 
 print(directory)
 searchstring = input('What word are you trying to find? ')
