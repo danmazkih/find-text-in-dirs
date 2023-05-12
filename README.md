@@ -1,7 +1,7 @@
 # Find text in files
 This Python code searches for a specific word or string within all the files present in a specified directory.
 
-First, it imports two modules from the Python Standard Library: os and time. The os module is used to handle directory operations, while the time module is used to measure the execution time of the script.
+First, it imports two modules from the Python Standard Library: __os__ and time. The os module is used to handle directory operations, while the time module is used to measure the execution time of the script.
 
 Next, the script prompts the user to input the directory path where the search should be performed. The variable searchstring is also initialized, which will contain the string to search.
 
