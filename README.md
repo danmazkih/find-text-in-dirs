@@ -1,2 +1,2 @@
 # find-text-in-dirs
-This repository contains a script that searches for text within files in specified directories
+This Python code searches for a specific word or string within all the files present in a specified directory.
