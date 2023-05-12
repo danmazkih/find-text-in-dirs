@@ -1,4 +1,4 @@
-# find-text-in-dirs
+# Find text in files
 This Python code searches for a specific word or string within all the files present in a specified directory.
 
 First, it imports two modules from the Python Standard Library: os and time. The os module is used to handle directory operations, while the time module is used to measure the execution time of the script.
