@@ -11,4 +11,4 @@ The script keeps track of the number of files where the search string is found u
 
 Finally, the script calculates the total execution time by subtracting the start time (```starTime```) from the end time (```endTime```), and prints the total number of times the search string was found as well as the elapsed execution time to the console.
 
-Note that the directory variable is currently set to an empty string, so the user will need to input the directory path when prompted in order for the script to function properly.
+Note that the ```directory``` variable is currently set to an empty string, so the user will need to input the directory path when prompted in order for the script to function properly.
